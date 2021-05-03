@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/Andrew-Fiscus_React-Portfolio/static/css/main.e772314e.chunk.css",
-    "main.js": "/Andrew-Fiscus_React-Portfolio/static/js/main.3909b11d.chunk.js",
-    "main.js.map": "/Andrew-Fiscus_React-Portfolio/static/js/main.3909b11d.chunk.js.map",
+    "main.js": "/Andrew-Fiscus_React-Portfolio/static/js/main.68a644cb.chunk.js",
+    "main.js.map": "/Andrew-Fiscus_React-Portfolio/static/js/main.68a644cb.chunk.js.map",
     "runtime-main.js": "/Andrew-Fiscus_React-Portfolio/static/js/runtime-main.e2074b26.js",
     "runtime-main.js.map": "/Andrew-Fiscus_React-Portfolio/static/js/runtime-main.e2074b26.js.map",
     "static/css/2.7d92cc78.chunk.css": "/Andrew-Fiscus_React-Portfolio/static/css/2.7d92cc78.chunk.css",
@@ -19,6 +19,6 @@
     "static/css/2.7d92cc78.chunk.css",
     "static/js/2.b19104b9.chunk.js",
     "static/css/main.e772314e.chunk.css",
-    "static/js/main.3909b11d.chunk.js"
+    "static/js/main.68a644cb.chunk.js"
   ]
 }
